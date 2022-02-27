@@ -1,4 +1,4 @@
-# Basic Sample Hardhat Project
+# WheNFTs
 
 This project demonstrates a basic Hardhat project to ship an NFT collection onto Ethereum network. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts. Currently under active developement.
 
